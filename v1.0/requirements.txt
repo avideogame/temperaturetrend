@@ -1,0 +1,6 @@
+tensorflow
+huggingface_hub
+pandas
+streamlit
+matplotlib
+scikit-learn
